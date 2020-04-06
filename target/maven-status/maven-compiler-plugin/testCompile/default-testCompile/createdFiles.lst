@@ -1,0 +1,5 @@
+apiSuiteTest\java\Election.class
+apiSuiteTest\java\VoterInfo.class
+apiSuiteTest\java\RepInfoByDivision.class
+apiSuiteTest\java\RepInfoByAddress.class
+apiSuiteTest\java\Divisions.class
